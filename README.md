@@ -1,5 +1,7 @@
 # python-password-generator
-
+#
+#
+#
 #   Purpose:    
 #               to create an utility to choose better passwords for users,
 #               as people have a tendency to use easy to remember passwords
